@@ -1,5 +1,4 @@
 import sys
-from textnode import TextNode, TextType
 from generate_page import generate_page_recursive, override_directory
 
 def main():
